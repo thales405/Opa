@@ -1,8 +1,5 @@
 #EXTM3U
  
-#PLAYLISTV: pltv-logo="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-name="JuniorTVOnline" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-author="JuniorTVOnline" pltv-site="" pltv-email="JuniorTVOnline" pltv-phone="JuniorTVOnline.
-
-
 ############################### ABERTOS #####################################
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
