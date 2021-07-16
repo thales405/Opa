@@ -1,6 +1,8 @@
 #EXTM3U
  
 ############################### ABERTOS #####################################
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="f1" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
+http://163.172.103.202:8880/live/287994003835/287994003835/16698.ts
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
