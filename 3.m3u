@@ -1,20 +1,723 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Globo Mato Grosso FHD" tvg-ID="Globo Mato Grosso FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Mato Grosso FHD
+#EXTINF:0 tvg-chno="1" tvg-name="Globo Mato Grosso FHD" tvg-ID="Globo Mato Grosso FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Mato Grosso FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/63728
-#EXTINF:-1 tvg-name="Globo Goiânia FHD" tvg-ID="Globo Goiânia FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Goiânia FHD
+#EXTINF:0 tvg-chno="2" tvg-name="Globo Goiânia FHD" tvg-ID="Globo Goiânia FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Goiânia FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/72816
-#EXTINF:-1 tvg-name="Globo Salvador FHD" tvg-ID="Globo Salvador FHD" tvg-logo="https://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Salvador FHD
+#EXTINF:0 tvg-chno="3" tvg-name="Globo Salvador FHD" tvg-ID="Globo Salvador FHD" tvg-logo="https://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Salvador FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/72890
-#EXTINF:-1 tvg-name="SBT Serra Dourada HD" tvg-ID="SBT Serra Dourada HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="AAA",SBT Serra Dourada HD
+#EXTINF:0 tvg-chno="4" tvg-name="Band Goiânia HD" tvg-ID="Band Goiânia HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="AAA",Band Goiânia HD
+http://tv.factoryiptv.com/cassia123/cassia1234/63697
+#EXTINF:0 tvg-chno="5" tvg-name="SBT Serra Dourada HD" tvg-ID="SBT Serra Dourada HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="AAA",SBT Serra Dourada HD
 http://tv.factoryiptv.com/cassia123/cassia1234/65268
-#EXTINF:-1 tvg-name="RecordTV Bahia FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Bahia FHD
-http://tv.factoryiptv.com/cassia123/cassia1234/42905
-#EXTINF:-1 tvg-name="RecordTV Goias HD" tvg-ID="RecordTV Goias HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Goias HD
+#EXTINF:0 tvg-chno="6" tvg-name="Band Bahia" tvg-ID="Band Bahia" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="AAA",Band Bahia
+http://tv.factoryiptv.com/cassia123/cassia1234/65266
+#EXTINF:0 tvg-chno="7" tvg-name="RecordTV Goias HD" tvg-ID="RecordTV Goias HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Goias HD
 http://tv.factoryiptv.com/cassia123/cassia1234/63718
-#EXTINF:-1 tvg-name="Cultura FHD" tvg-ID="Cultura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="AAA",Cultura FHD
+#EXTINF:0 tvg-chno="8" tvg-name="RecordTV Bahia FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Bahia FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/42905
+#EXTINF:0 tvg-chno="9" tvg-name="Cultura FHD" tvg-ID="Cultura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="AAA",Cultura FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/42903
-#EXTINF:-1 tvg-name="RedeTV! FHD" tvg-ID="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="AAA",RedeTV! FHD
+#EXTINF:0 tvg-chno="10" tvg-name="RedeTV! FHD" tvg-ID="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="AAA",RedeTV! FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/41518
-#EXTINF:-1 tvg-name="BandSports FHD" tvg-ID="BandSports FHD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="AAA",BandSports FHD
+#EXTINF:0 tvg-chno="11" tvg-name="BandSports FHD" tvg-ID="BandSports FHD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="AAA",BandSports FHD
 http://tv.factoryiptv.com/cassia123/cassia1234/42900
-
+#EXTINF:0 tvg-chno="12" tvg-name="A&E FHD" tvg-ID="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40263
+#EXTINF:0 tvg-chno="13" tvg-name="AMC FHD" tvg-ID="AMC FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | Full HD",AMC FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40262
+#EXTINF:0 tvg-chno="14" tvg-name="Animal Planet FHD" tvg-ID="Animal Planet FHD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Full HD",Animal Planet FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38392
+#EXTINF:0 tvg-chno="15" tvg-name="Arte 1 FHD" tvg-ID="Arte 1 FHD" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Full HD",Arte 1 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41467
+#EXTINF:0 tvg-chno="16" tvg-name="AXN FHD" tvg-ID="AXN FHD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Full HD",AXN FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41468
+#EXTINF:0 tvg-chno="17" tvg-name="BabyTV FHD" tvg-ID="BabyTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Full HD",BabyTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63635
+#EXTINF:0 tvg-chno="18" tvg-name="BandNews FHD" tvg-ID="BandNews FHD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Full HD",BandNews FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38391
+#EXTINF:0 tvg-chno="19" tvg-name="BIS FHD" tvg-ID="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Full HD",BIS FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38403
+#EXTINF:0 tvg-chno="20" tvg-name="Boomerang FHD" tvg-ID="Boomerang FHD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Full HD",Boomerang FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38390
+#EXTINF:0 tvg-chno="21" tvg-name="Canal Brasil FHD" tvg-ID="Canal Brasil FHD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | Full HD",Canal Brasil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41517
+#EXTINF:0 tvg-chno="22" tvg-name="Canção Nova FHD" tvg-ID="Canção Nova ES FHD" tvg-logo="https://i.imgur.com/SzRozG4.png" group-title="Canais | Full HD",Canção Nova FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/74663
+#EXTINF:0 tvg-chno="23" tvg-name="Cartoon Network FHD" tvg-ID="Cartoon Network FHD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Full HD",Cartoon Network FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41471
+#EXTINF:0 tvg-chno="24" tvg-name="Chef TV FHD" tvg-ID="Chef TV FHD" tvg-logo="https://i.imgur.com/5xtgWFe.png" group-title="Canais | Full HD",Chef TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63401
+#EXTINF:0 tvg-chno="25" tvg-name="Cinemax FHD" tvg-ID="Cinemax FHD" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Full HD",Cinemax FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40261
+#EXTINF:0 tvg-chno="26" tvg-name="CNN BRASIL FHD" tvg-ID="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Full HD",CNN BRASIL FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/65041
+#EXTINF:0 tvg-chno="27" tvg-name="Combate FHD" tvg-ID="Combate FHD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Full HD",Combate FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38428
+#EXTINF:0 tvg-chno="28" tvg-name="Comedy Central FHD" tvg-ID="Comedy Central FHD" tvg-logo="https://lh3.googleusercontent.com/-ZDlWJqUp3H4/Wh8P4sC3O8I/AAAAAAAAPBo/-93fP1YLSVYAHmotiteJcYs97q2CvVwjwCLcBGAs/h200/COMEDY_CENTRAL_HD.png" group-title="Canais | Full HD",Comedy Central FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40260
+#EXTINF:0 tvg-chno="29" tvg-name="Curta! FHD" tvg-ID="Curta! FHD" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Canais | Full HD",Curta! FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41472
+#EXTINF:0 tvg-chno="30" tvg-name="Discovery Channel FHD" tvg-ID="Discovery Channel FHD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Full HD",Discovery Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38404
+#EXTINF:0 tvg-chno="31" tvg-name="Discovery Home & Health FHD" tvg-ID="Discovery Home & Health FHD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Full HD",Discovery Home & Health FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38389
+#EXTINF:0 tvg-chno="32" tvg-name="Discovery Kids FHD" tvg-ID="Discovery Kids FHD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Full HD",Discovery Kids FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41473
+#EXTINF:0 tvg-chno="33" tvg-name="Discovery Science FHD" tvg-ID="Discovery Science FHD" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Full HD",Discovery Science FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41474
+#EXTINF:0 tvg-chno="34" tvg-name="Discovery Theater FHD" tvg-ID="Discovery Theater FHD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Full HD",Discovery Theater FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41475
+#EXTINF:0 tvg-chno="35" tvg-name="Discovery Turbo FHD" tvg-ID="Discovery Turbo FHD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Full HD",Discovery Turbo FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38388
+#EXTINF:0 tvg-chno="36" tvg-name="Discovery World FHD" tvg-ID="Discovery World FHD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Full HD",Discovery World FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38387
+#EXTINF:0 tvg-chno="37" tvg-name="Disney Channel FHD" tvg-ID="Disney Channel FHD" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Full HD",Disney Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38402
+#EXTINF:0 tvg-chno="38" tvg-name="Disney Junior FHD" tvg-ID="Disney Junior FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Full HD",Disney Junior FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41512
+#EXTINF:0 tvg-chno="39" tvg-name="Disney XD FHD" tvg-ID="Disney XD FHD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Full HD",Disney XD FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/61971
+#EXTINF:0 tvg-chno="40" tvg-name="DogTV FHD" tvg-ID="DogTV FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Full HD",DogTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63768
+#EXTINF:0 tvg-chno="41" tvg-name="E! FHD" tvg-ID="E! FHD" tvg-logo="https://i.imgur.com/yN8C90X.png" group-title="Canais | Full HD",E! FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41476
+#EXTINF:0 tvg-chno="42" tvg-name="ESPN 2 FHD" tvg-ID="ESPN 2 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Full HD",ESPN 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41477
+#EXTINF:0 tvg-chno="43" tvg-name="ESPN Brasil FHD" tvg-ID="ESPN Brasil FHD" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Full HD",ESPN Brasil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38413
+#EXTINF:0 tvg-chno="44" tvg-name="ESPN Extra FHD" tvg-ID="ESPN Extra FHD" tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Full HD",ESPN Extra FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38380
+#EXTINF:0 tvg-chno="45" tvg-name="ESPN FHD" tvg-ID="ESPN FHD" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Full HD",ESPN FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38401
+#EXTINF:0 tvg-chno="46" tvg-name="Eurochannel FHD" tvg-ID="Eurochannel FHD" tvg-logo="https://i.imgur.com/0E3JT7m.png" group-title="Canais | Full HD",Eurochannel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/75172
+#EXTINF:0 tvg-chno="47" tvg-name="FashionTV Brasil FHD" tvg-ID="FashionTV Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Canais | Full HD",FashionTV Brasil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63770
+#EXTINF:0 tvg-chno="48" tvg-name="Film&Arts FHD" tvg-ID="Film&Arts FHD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Full HD",Film&Arts FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/61965
+#EXTINF:0 tvg-chno="49" tvg-name="Fish TV FHD" tvg-ID="Fish TV FHD" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Full HD",Fish TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41478
+#EXTINF:0 tvg-chno="50" tvg-name="Food Network FHD" tvg-ID="Food Network FHD" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Full HD",Food Network FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40257
+#EXTINF:0 tvg-chno="51" tvg-name="FoxSports 2 FHD" tvg-ID="FoxSports 2 FHD" tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Full HD",FoxSports 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38398
+#EXTINF:0 tvg-chno="52" tvg-name="FoxSports FHD" tvg-ID="FoxSports FHD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Full HD",FoxSports FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63306
+#EXTINF:0 tvg-chno="53" tvg-name="Futura FHD" tvg-ID="Futura FHD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png" group-title="Canais | Full HD",Futura FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41481
+#EXTINF:0 tvg-chno="54" tvg-name="FX FHD" tvg-ID="FX FHD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Full HD",FX FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41482
+#EXTINF:0 tvg-chno="55" tvg-name="GloboNews FHD" tvg-ID="GloboNews FHD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Full HD",GloboNews FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38397
+#EXTINF:0 tvg-chno="56" tvg-name="Gloob FHD" tvg-ID="Gloob FHD" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Full HD",Gloob FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38396
+#EXTINF:0 tvg-chno="57" tvg-name="Gloobinho FHD" tvg-ID="Gloobinho FHD" tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Full HD",Gloobinho FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41483
+#EXTINF:0 tvg-chno="58" tvg-name="GNT FHD" tvg-ID="GNT FHD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Full HD",GNT FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41484
+#EXTINF:0 tvg-chno="59" tvg-name="HBO 2 FHD" tvg-ID="HBO 2 FHD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Full HD",HBO 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38423
+#EXTINF:0 tvg-chno="60" tvg-name="HBO Family FHD" tvg-ID="HBO Family FHD" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Canais | Full HD",HBO Family FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41486
+#EXTINF:0 tvg-chno="61" tvg-name="HBO FHD" tvg-ID="HBO FHD" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Full HD",HBO FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/61972
+#EXTINF:0 tvg-chno="62" tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/RgOfJYg.png" group-title="Canais | Full HD",HBO Mundi FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40268
+#EXTINF:0 tvg-chno="63" tvg-name="HBO Plus FHD" tvg-ID="100% Vida" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Full HD",HBO Plus FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41487
+#EXTINF:0 tvg-chno="64" tvg-name="HBO POP FHD" tvg-ID="Max UP FHD" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title="Canais | Full HD",HBO POP FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40270
+#EXTINF:0 tvg-chno="65" tvg-name="HBO Signature FHD" tvg-ID="HBO Signature FHD" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Canais | Full HD",HBO Signature FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41488
+#EXTINF:0 tvg-chno="66" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/HeJPYl6.png" group-title="Canais | Full HD",HBO Xtreme FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/42901
+#EXTINF:0 tvg-chno="67" tvg-name="HGTV FHD" tvg-ID="HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | Full HD",HGTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40259
+#EXTINF:0 tvg-chno="68" tvg-name="History 2 FHD" tvg-ID="History 2 FHD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Full HD",History 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41485
+#EXTINF:0 tvg-chno="69" tvg-name="History FHD" tvg-ID="History FHD" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Full HD",History FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38383
+#EXTINF:0 tvg-chno="70" tvg-name="ID: Investigação Discovery FHD" tvg-ID="ID: Investigação Discovery FHD" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="Canais | Full HD",ID: Investigação Discovery FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41489
+#EXTINF:0 tvg-chno="71" tvg-name="Lifetime FHD" tvg-ID="Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/200px-Lifetime_logo17.svg.png" group-title="Canais | Full HD",Lifetime FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40265
+#EXTINF:0 tvg-chno="72" tvg-name="Loading FHD" tvg-ID="Loading FHD" tvg-logo="https://s2.glbimg.com/_SNU4hVO0E9cVNXK0ShgwJ_E73c=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg" group-title="Canais | Full HD",Loading FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/76525
+#EXTINF:0 tvg-chno="73" tvg-name="Mega TV FHD" tvg-ID="Mega TV FHD" tvg-logo="https://i.imgur.com/ff8iXx1.png" group-title="Canais | Full HD",Mega TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/75176
+#EXTINF:0 tvg-chno="74" tvg-name="Megapix FHD" tvg-ID="Megapix FHD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Full HD",Megapix FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41491
+#EXTINF:0 tvg-chno="75" tvg-name="Mosaico Premiere FHD" tvg-ID="Mosaico Premiere FHD" tvg-logo="https://i.imgur.com/8d0cM31.png" group-title="Canais | Full HD",Mosaico Premiere FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/74668
+#EXTINF:0 tvg-chno="76" tvg-name="MTV FHD" tvg-ID="MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/200px-MTV_Music_2017_logo_Australia.svg.png" group-title="Canais | Full HD",MTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40266
+#EXTINF:0 tvg-chno="77" tvg-name="MTV Live FHD" tvg-ID="MTV Live HD FHD" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVlarge_white.png" group-title="Canais | Full HD",MTV Live FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41492
+#EXTINF:0 tvg-chno="78" tvg-name="Multishow FHD" tvg-ID="Multishow FHD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Full HD",Multishow FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41493
+#EXTINF:0 tvg-chno="79" tvg-name="Music Box Brazil FHD" tvg-ID="Music Box Brazil FHD" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | Full HD",Music Box Brazil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41494
+#EXTINF:0 tvg-chno="80" tvg-name="NatGeo Kids FHD" tvg-ID="NatGeo Kids FHD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Full HD",NatGeo Kids FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41496
+#EXTINF:0 tvg-chno="81" tvg-name="National Geographic FHD" tvg-ID="National Geographic FHD" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Full HD",National Geographic FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41280
+#EXTINF:0 tvg-chno="82" tvg-name="National Geographic Wild FHD" tvg-ID="National Geographic Wild FHD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Full HD",National Geographic Wild FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41497
+#EXTINF:0 tvg-chno="83" tvg-name="Nick FHD" tvg-ID="Nick FHD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Full HD",Nick FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40039
+#EXTINF:0 tvg-chno="84" tvg-name="Nick Jr. FHD" tvg-ID="Nick Jr. FHD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Full HD",Nick Jr. FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41498
+#EXTINF:0 tvg-chno="85" tvg-name="Nosso Tempo FHD" tvg-ID="Nosso Tempo FHD" tvg-logo="https://i.imgur.com/J2zYdVb.png" group-title="Canais | Full HD",Nosso Tempo FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/67296
+#EXTINF:0 tvg-chno="86" tvg-name="Nova Nordeste FHD" tvg-ID="Nova Nordeste FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/c/c2/20160712014607%21Logotipo_da_TV_Nova_Nordeste.png" group-title="Canais | Full HD",Nova Nordeste FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63395
+#EXTINF:0 tvg-chno="87" tvg-name="Off FHD" tvg-ID="Off FHD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | Full HD",Off FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41499
+#EXTINF:0 tvg-chno="88" tvg-name="Paramount Channel FHD" tvg-ID="Paramount Channel FHD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Full HD",Paramount Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41500
+#EXTINF:0 tvg-chno="89" tvg-name="PLAYKIDS FHD" tvg-ID="100% Vida" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Full HD",PLAYKIDS FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41522
+#EXTINF:0 tvg-chno="90" tvg-name="Polishop TV FHD" tvg-ID="Polishop TV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="Canais | Full HD",Polishop TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/67295
+#EXTINF:0 tvg-chno="91" tvg-name="Premiere 2 FHD" tvg-ID="Premiere 2 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38410
+#EXTINF:0 tvg-chno="92" tvg-name="Premiere 3 FHD" tvg-ID="Premiere 3 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 3 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38409
+#EXTINF:0 tvg-chno="93" tvg-name="Premiere 4 FHD" tvg-ID="Premiere 4 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 4 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38408
+#EXTINF:0 tvg-chno="94" tvg-name="Premiere 5 FHD" tvg-ID="Premiere 5 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 5 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38407
+#EXTINF:0 tvg-chno="95" tvg-name="Premiere 6 FHD" tvg-ID="Premiere 6 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 6 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38406
+#EXTINF:0 tvg-chno="96" tvg-name="Premiere 7 FHD" tvg-ID="Premiere 7 FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere 7 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38405
+#EXTINF:0 tvg-chno="97" tvg-name="Premiere Clubes FHD" tvg-ID="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/OEuXulO.png" group-title="Canais | Full HD",Premiere Clubes FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38411
+#EXTINF:0 tvg-chno="98" tvg-name="Prime Box Brazil FHD" tvg-ID="Prime Box Brazil FHD" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="Canais | Full HD",Prime Box Brazil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41501
+#EXTINF:0 tvg-chno="99" tvg-name="Red Bull TV FHD" tvg-ID="Red Bull TV FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL.png" group-title="Canais | Full HD",Red Bull TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63775
+#EXTINF:0 tvg-chno="100" tvg-name="Rede Gospel FHD" tvg-ID="Rede Gospel FHD" tvg-logo="https://prnt.sc/twv5hi" group-title="Canais | Full HD",Rede Gospel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63781
+#EXTINF:0 tvg-chno="101" tvg-name="Rede Gênesis FHD" tvg-ID="Rede Gênesis FHD" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BG%C3%AAnesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="Canais | Full HD",Rede Gênesis FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/64596
+#EXTINF:0 tvg-chno="102" tvg-name="Rede Super FHD" tvg-ID="Rede Super FHD" tvg-logo="https://i.imgur.com/aqzfRU0.jpg" group-title="Canais | Full HD",Rede Super FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/64595
+#EXTINF:0 tvg-chno="103" tvg-name="Rede Vida FHD" tvg-ID="Rede Vida FHD" tvg-logo="https://i.imgur.com/yuEWxEV.png" group-title="Canais | Full HD",Rede Vida FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41519
+#EXTINF:0 tvg-chno="104" tvg-name="RIT TV FHD" tvg-ID="RIT TV FHD" tvg-logo="https://i.imgur.com/Mki3wiO.jpg" group-title="Canais | Full HD",RIT TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63659
+#EXTINF:0 tvg-chno="105" tvg-name="RPC Maringá FHD" tvg-ID="RPC Maringá FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Canais | Full HD",RPC Maringá FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63275
+#EXTINF:0 tvg-chno="106" tvg-name="Sony Channel FHD" tvg-ID="Sony Channel FHD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Full HD",Sony Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41470
+#EXTINF:0 tvg-chno="107" tvg-name="Space FHD" tvg-ID="Space FHD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Full HD",Space FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41503
+#EXTINF:0 tvg-chno="108" tvg-name="SporTV 2 FHD" tvg-ID="SporTV 2 FHD" tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Full HD",SporTV 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38395
+#EXTINF:0 tvg-chno="109" tvg-name="SporTV 3 FHD" tvg-ID="SporTV 3 FHD" tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Full HD",SporTV 3 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38394
+#EXTINF:0 tvg-chno="110" tvg-name="SporTV FHD" tvg-ID="SporTV FHD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Full HD",SporTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38419
+#EXTINF:0 tvg-chno="111" tvg-name="Star Channel FHD" tvg-ID="Fox Channel FHD" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="Canais | Full HD",Star Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38427
+#EXTINF:0 tvg-chno="112" tvg-name="Star Hits 2 FHD" tvg-ID="Fox Premium 2 FHD" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Full HD",Star Hits 2 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38386
+#EXTINF:0 tvg-chno="113" tvg-name="Star Hits FHD" tvg-ID="Fox Premium 1 FHD" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Full HD",Star Hits FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41480
+#EXTINF:0 tvg-chno="114" tvg-name="Star Life FHD" tvg-ID="FoxLife FHD" tvg-logo="https://i.imgur.com/NoyRFaw.png" group-title="Canais | Full HD",Star Life FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41479
+#EXTINF:0 tvg-chno="115" tvg-name="Studio Universal FHD" tvg-ID="Studio Universal FHD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Full HD",Studio Universal FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41511
+#EXTINF:0 tvg-chno="116" tvg-name="Syfy FHD" tvg-ID="Syfy FHD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="Canais | Full HD",Syfy FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41504
+#EXTINF:0 tvg-chno="117" tvg-name="TBS FHD" tvg-ID="TBS FHD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Full HD",TBS FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41505
+#EXTINF:0 tvg-chno="118" tvg-name="TCM FHD" tvg-ID="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais | Full HD",TCM FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63645
+#EXTINF:0 tvg-chno="119" tvg-name="Telecine Action FHD" tvg-ID="Telecine Action FHD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Full HD",Telecine Action FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38418
+#EXTINF:0 tvg-chno="120" tvg-name="Telecine Cult FHD" tvg-ID="Telecine Cult FHD" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Canais | Full HD",Telecine Cult FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41506
+#EXTINF:0 tvg-chno="121" tvg-name="Telecine Fun FHD" tvg-ID="Telecine Fun FHD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Canais | Full HD",Telecine Fun FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38417
+#EXTINF:0 tvg-chno="122" tvg-name="Telecine Pipoca FHD" tvg-ID="Telecine Pipoca FHD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Canais | Full HD",Telecine Pipoca FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38416
+#EXTINF:0 tvg-chno="123" tvg-name="Telecine Premium FHD" tvg-ID="Telecine Premium FHD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Canais | Full HD",Telecine Premium FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38415
+#EXTINF:0 tvg-chno="124" tvg-name="Telecine Touch FHD" tvg-ID="Telecine Touch FHD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Full HD",Telecine Touch FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38414
+#EXTINF:0 tvg-chno="125" tvg-name="Terra Viva FHD" tvg-ID="Terra Viva FHD" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="Canais | Full HD",Terra Viva FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63394
+#EXTINF:0 tvg-chno="126" tvg-name="TLC FHD" tvg-ID="TLC FHD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Canais | Full HD",TLC FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/61964
+#EXTINF:0 tvg-chno="127" tvg-name="TNT FHD" tvg-ID="TNT FHD" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Full HD",TNT FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41507
+#EXTINF:0 tvg-chno="128" tvg-name="TNT Séries FHD" tvg-ID="TNT Séries FHD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Full HD",TNT Séries FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41508
+#EXTINF:0 tvg-chno="129" tvg-name="Tooncast FHD" tvg-ID="Tooncast FHD" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Full HD",Tooncast FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63648
+#EXTINF:0 tvg-chno="130" tvg-name="Trace Brazuca FHD" tvg-ID="Trace Brazuka FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tracebrazuca.png" group-title="Canais | Full HD",Trace Brazuca FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/73329
+#EXTINF:0 tvg-chno="131" tvg-name="Travel Box Brazil FHD" tvg-ID="Travel Box Brazil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Canais | Full HD",Travel Box Brazil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63785
+#EXTINF:0 tvg-chno="132" tvg-name="True TV FHD" tvg-ID="True TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="Canais | Full HD",True TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63650
+#EXTINF:0 tvg-chno="133" tvg-name="TruTV FHD" tvg-ID="TruTV FHD" tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="Canais | Full HD",TruTV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41509
+#EXTINF:0 tvg-chno="134" tvg-name="TV Educação FHD" tvg-ID="TV Educação FHD" tvg-logo="https://revistaeducacao.com.br/wp-content/uploads/2017/05/tveducacao.jpg" group-title="Canais | Full HD",TV Educação FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/66417
+#EXTINF:0 tvg-chno="135" tvg-name="TV Estacao FHD" tvg-ID="TV Estacao FHD" tvg-logo="https://i.imgur.com/INsGjRq.png" group-title="Canais | Full HD",TV Estacao FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63657
+#EXTINF:0 tvg-chno="136" tvg-name="TV Gazeta FHD" tvg-ID="TV Gazeta FHD" tvg-logo="https://i.imgur.com/G8NvkZr.png" group-title="Canais | Full HD",TV Gazeta FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/75177
+#EXTINF:0 tvg-chno="137" tvg-name="TV Ra Tim Bum FHD" tvg-ID="100% Vida" tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Full HD",TV Ra Tim Bum FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41510
+#EXTINF:0 tvg-chno="138" tvg-name="TV UFPB TV Brasil FHD" tvg-ID="TV UFPB TV Brasil FHD" tvg-logo="https://i.imgur.com/5KsoCuO.png" group-title="Canais | Full HD",TV UFPB TV Brasil FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/80922
+#EXTINF:0 tvg-chno="139" tvg-name="TV Universitária FHD" tvg-ID="TV Universitária FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/Logotipo_da_TV_Universit%C3%A1ria_RN.png" group-title="Canais | Full HD",TV Universitária FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63658
+#EXTINF:0 tvg-chno="140" tvg-name="TV Verdes Mares Cariri FHD" tvg-ID="TV Verdes Mares Cariri FHD" tvg-logo="https://i.imgur.com/yOSyb3P.png" group-title="Canais | Full HD",TV Verdes Mares Cariri FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63389
+#EXTINF:0 tvg-chno="141" tvg-name="Universal TV FHD" tvg-ID="Universal TV FHD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="Canais | Full HD",Universal TV FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/71655
+#EXTINF:0 tvg-chno="142" tvg-name="VH1 FHD" tvg-ID="VH1 HD FHD" tvg-logo="http://2.bp.blogspot.com/-jtZjq4j1z5I/UMeFkmhloNI/AAAAAAAABAQ/rEe0YTqqo5E/s1600/Render+Logo+VH1.png" group-title="Canais | Full HD",VH1 FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40271
+#EXTINF:0 tvg-chno="143" tvg-name="VH1 Mega Hits FHD" tvg-ID="VH1 Mega Hits FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1200px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Canais | Full HD",VH1 Mega Hits FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/68121
+#EXTINF:0 tvg-chno="144" tvg-name="Viva FHD" tvg-ID="Viva FHD" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="Canais | Full HD",Viva FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38393
+#EXTINF:0 tvg-chno="145" tvg-name="Warner Channel FHD" tvg-ID="Warner Channel FHD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Full HD",Warner Channel FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/38384
+#EXTINF:0 tvg-chno="146" tvg-name="Woohoo FHD" tvg-ID="Woohoo FHD" tvg-logo="https://4.bp.blogspot.com/-2CwDjeJXwlc/Whg9i0MBY7I/AAAAAAAABXI/Qt16RTfb3potQaf4rl8fDNuLzqdtexpqgCLcBGAs/s1600/woohoo.png" group-title="Canais | Full HD",Woohoo FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/40267
+#EXTINF:0 tvg-chno="147" tvg-name="Woohoo FHD" tvg-ID="Woohoo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Canais | Full HD",Woohoo FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63777
+#EXTINF:0 tvg-chno="148" tvg-name="Zoomoo FHD" tvg-ID="Zoomoo FHD" tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png" group-title="Canais | Full HD",Zoomoo FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63778
+#EXTINF:0 tvg-chno="149" tvg-name="TELECINE PIPOCA HD (LEG)" tvg-ID="TELECINE PIPOCA HD (LEG)" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title=" Canais | Legendado",TELECINE PIPOCA HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81778
+#EXTINF:0 tvg-chno="150" tvg-name="TELECINE PIPOCA FHD (LEG)" tvg-ID="TELECINE PIPOCA FHD (LEG)" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title=" Canais | Legendado",TELECINE PIPOCA FHD (LEG)
+60f4
+#EXTINF:0 tvg-chno="151" tvg-name="TELECINE PREMIUM FHD (LEG)" tvg-ID="TELECINE PREMIUM FHD (LEG)" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title=" Canais | Legendado",TELECINE PREMIUM FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81779
+#EXTINF:0 tvg-chno="152" tvg-name="TELECINE PREMIUM HD (LEG)" tvg-ID="TELECINE PREMIUM HD (LEG)" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title=" Canais | Legendado",TELECINE PREMIUM HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81780
+#EXTINF:0 tvg-chno="153" tvg-name="TELECINE ACTION FHD (LEG)" tvg-ID="TELECINE ACTION FHD (LEG)" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title=" Canais | Legendado",TELECINE ACTION FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81781
+#EXTINF:0 tvg-chno="154" tvg-name="TELECINE ACTION HD (LEG)" tvg-ID="TELECINE ACTION HD ( LEG)" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title=" Canais | Legendado",TELECINE ACTION HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81782
+#EXTINF:0 tvg-chno="155" tvg-name="TELECINE TOUCH FHD (LEG)" tvg-ID="TELECINE TOUCH FHD (LEG)" tvg-logo="http://i.imgur.com/849pB2j.png" group-title=" Canais | Legendado",TELECINE TOUCH FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81783
+#EXTINF:0 tvg-chno="156" tvg-name="TELECINE TOUCH HD (LEG)" tvg-ID="TELECINE TOUCH HD ( LEG)" tvg-logo="http://i.imgur.com/849pB2j.png" group-title=" Canais | Legendado",TELECINE TOUCH HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81784
+#EXTINF:0 tvg-chno="157" tvg-name="TELECINE FUN FHD (LEG)" tvg-ID="TELECINE FUN FHD (LEG)" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title=" Canais | Legendado",TELECINE FUN FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81785
+#EXTINF:0 tvg-chno="158" tvg-name="TELECINE FUN HD (LEG)" tvg-ID="TELECINE FUN HD (LEG)" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title=" Canais | Legendado",TELECINE FUN HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81786
+#EXTINF:0 tvg-chno="159" tvg-name="TELECINE CULT FHD (LEG)" tvg-ID="TELECINE CULT FHD (LEG)" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title=" Canais | Legendado",TELECINE CULT FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81787
+#EXTINF:0 tvg-chno="160" tvg-name="TELECINE CULT HD (LEG)" tvg-ID="TELECINE CULT HD (LEG)" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title=" Canais | Legendado",TELECINE CULT HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81788
+#EXTINF:0 tvg-chno="161" tvg-name="HBO FHD (LEG)" tvg-ID="HBO FHD (LEG)" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title=" Canais | Legendado",HBO FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81789
+#EXTINF:0 tvg-chno="162" tvg-name="HBO HD (LEG)" tvg-ID="HBO HD (LEG)" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title=" Canais | Legendado",HBO HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81790
+#EXTINF:0 tvg-chno="163" tvg-name="HBO PLUS FHD (LEG)" tvg-ID="HBO PLUS FHD (LEG)" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title=" Canais | Legendado",HBO PLUS FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81791
+#EXTINF:0 tvg-chno="164" tvg-name="HBO PLUS HD (LEG)" tvg-ID="HBO PLUS HD (LEG)" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title=" Canais | Legendado",HBO PLUS HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81792
+#EXTINF:0 tvg-chno="165" tvg-name="HBO SIGNATURE FHD (LEG)" tvg-ID="HBO SIGNATURE FHD (LEG)" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title=" Canais | Legendado",HBO SIGNATURE FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81793
+#EXTINF:0 tvg-chno="166" tvg-name="HBO SIGNATURE HD (LEG)" tvg-ID="HBO SIGNATURE HD (LEG)" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title=" Canais | Legendado",HBO SIGNATURE HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81794
+#EXTINF:0 tvg-chno="167" tvg-name="HBO MUNDI FHD (LEG)" tvg-ID="HBO MUNDI FHD (LEG)" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title=" Canais | Legendado",HBO MUNDI FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81795
+#EXTINF:0 tvg-chno="168" tvg-name="HBO MUNDI HD ( LEG)" tvg-ID="HBO MUNDI HD (LEG)" tvg-logo="https://i.imgur.com/RgOfJYg.png" group-title=" Canais | Legendado",HBO MUNDI HD ( LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81796
+#EXTINF:0 tvg-chno="169" tvg-name="HBO POP FHD (LEG)" tvg-ID="HBO POP FHD (LEG)" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title=" Canais | Legendado",HBO POP FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81797
+#EXTINF:0 tvg-chno="170" tvg-name="HBO POP HD (LEG)" tvg-ID="BO POP HD (LEG)" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title=" Canais | Legendado",HBO POP HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81798
+#EXTINF:0 tvg-chno="171" tvg-name="HBO XTREME FHD (LEG)" tvg-ID="HBO XTREME FHD (LEG)" tvg-logo="https://i.imgur.com/HeJPYl6.png" group-title=" Canais | Legendado",HBO XTREME FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81799
+#EXTINF:0 tvg-chno="172" tvg-name="HBO XTREAM HD (LEG)" tvg-ID="HBO XTREAM HD ( LEG)" tvg-logo="https://i.imgur.com/HeJPYl6.png" group-title=" Canais | Legendado",HBO XTREAM HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81800
+#EXTINF:0 tvg-chno="173" tvg-name="STAR CHANNEL FHD (LEG)" tvg-ID="FOX FHD (LEG)" tvg-logo="D" group-title=" Canais | Legendado",STAR CHANNEL FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81801
+#EXTINF:0 tvg-chno="174" tvg-name="STAR CHANNEL HD" tvg-ID="FOX HD" tvg-logo="S" group-title=" Canais | Legendado",STAR CHANNEL HD
+http://tv.factoryiptv.com/cassia123/cassia1234/81802
+#EXTINF:0 tvg-chno="175" tvg-name="AXN FHD (LEG)" tvg-ID="AXN FHD (LEG)" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title=" Canais | Legendado",AXN FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81803
+#EXTINF:0 tvg-chno="176" tvg-name="AXN HD (LEG)" tvg-ID="AXN HD (LEG)" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title=" Canais | Legendado",AXN HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81804
+#EXTINF:0 tvg-chno="177" tvg-name="STAR HITS FHD (LEG)" tvg-ID="FOX PREMIUM 1 FHD (LEG)" tvg-logo="d" group-title=" Canais | Legendado",STAR HITS FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81805
+#EXTINF:0 tvg-chno="178" tvg-name="STAR HITS HD (LEG)" tvg-ID="FOX PREMIUM 1 HD (LEG)" tvg-logo="D" group-title=" Canais | Legendado",STAR HITS HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81806
+#EXTINF:0 tvg-chno="179" tvg-name="STAR HITS 2 FHD (LEG)" tvg-ID="FOX PREMIUM 2 FHD (LEG)" tvg-logo="S" group-title=" Canais | Legendado",STAR HITS 2 FHD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81807
+#EXTINF:0 tvg-chno="180" tvg-name="STAR HITS 2 HD (LEG)" tvg-ID="FOX PREMIUM 2 HD (LEG)" tvg-logo="D" group-title=" Canais | Legendado",STAR HITS 2 HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81808
+#EXTINF:0 tvg-chno="181" tvg-name="SYFY HD (LEG)" tvg-ID="SYFY HD (LEG)" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title=" Canais | Legendado",SYFY HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81814
+#EXTINF:0 tvg-chno="182" tvg-name="WARNER CHANNEL HD (LEG)" tvg-ID="WARNER CHANNEL HD (LEG)" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title=" Canais | Legendado",WARNER CHANNEL HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81813
+#EXTINF:0 tvg-chno="183" tvg-name="DISCOVERY THEATER HD (LEG)" tvg-ID="DISCOVERY THEATER HD (LEG)" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title=" Canais | Legendado",DISCOVERY THEATER HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81812
+#EXTINF:0 tvg-chno="184" tvg-name="UNIVERSAL CHANNEL HD (LEG)" tvg-ID="UNIVERSAL CHANNEL HD (LEG)" tvg-logo="S" group-title=" Canais | Legendado",UNIVERSAL CHANNEL HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81811
+#EXTINF:0 tvg-chno="185" tvg-name="STAR HITS 2 HD (LEG)" tvg-ID="STAR HITS 2 HD (LEG)" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title=" Canais | Legendado",STAR HITS 2 HD (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81810
+#EXTINF:0 tvg-chno="186" tvg-name="STAR HITS (LEG)" tvg-ID="STAR HITS (LEG)" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title=" Canais | Legendado",STAR HITS (LEG)
+http://tv.factoryiptv.com/cassia123/cassia1234/81809
+#EXTINF:0 tvg-chno="1" tvg-name="GloboNews HD" tvg-ID="GloboNews HD" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews HD
+http://tv.factoryiptv.com/cassia123/cassia1234/36917
+#EXTINF:0 tvg-chno="25" tvg-name="Record News HD" tvg-ID="Record News HD" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News HD
+http://tv.factoryiptv.com/cassia123/cassia1234/37050
+#EXTINF:0 tvg-chno="34" tvg-name="GloboNews" tvg-ID="GloboNews" tvg-logo="http://i.imgur.com/GIbRutN.png" group-title="Canais | Noticias",GloboNews
+http://tv.factoryiptv.com/cassia123/cassia1234/37093
+#EXTINF:0 tvg-chno="41" tvg-name="BandNews" tvg-ID="BandNews" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews
+http://tv.factoryiptv.com/cassia123/cassia1234/37126
+#EXTINF:0 tvg-chno="193" tvg-name="Record News" tvg-ID="Record News" tvg-logo="http://i.imgur.com/I99RZ9n.png" group-title="Canais | Noticias",Record News
+http://tv.factoryiptv.com/cassia123/cassia1234/41529
+#EXTINF:0 tvg-chno="200" tvg-name="BandNews HD" tvg-ID="BandNews HD" tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="Canais | Noticias",BandNews HD
+http://tv.factoryiptv.com/cassia123/cassia1234/42411
+#EXTINF:0 tvg-chno="411" tvg-name="TVídeoNews" tvg-logo="https://www.tvideonews.com.br/gallery_gen/e8799046fa884df3e56cd9355c991f1a_275.75466036592x320.png" group-title="Canais | Noticias",TVídeoNews
+http://tv.factoryiptv.com/cassia123/cassia1234/57777
+#EXTINF:0 tvg-chno="413" tvg-name="Web TV Água Boa" tvg-logo="http://aachost.com/wp-content/uploads/2017/12/logo_web_tv.png" group-title="Canais | Noticias",Web TV Água Boa
+http://tv.factoryiptv.com/cassia123/cassia1234/62130
+#EXTINF:0 tvg-chno="414" tvg-name="TV Brasil" tvg-ID="TV Brasil 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil
+http://tv.factoryiptv.com/cassia123/cassia1234/62133
+#EXTINF:0 tvg-chno="415" tvg-name="TV Brasil HD" tvg-ID="TV Brasil 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Canais | Noticias",TV Brasil HD
+http://tv.factoryiptv.com/cassia123/cassia1234/63632
+#EXTINF:0 tvg-chno="417" tvg-name="InterTV Cabo Frio HD" tvg-ID="InterTV Cabo Frio HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="Canais | Noticias",InterTV Cabo Frio HD
+http://tv.factoryiptv.com/cassia123/cassia1234/64591
+#EXTINF:0 tvg-chno="418" tvg-name="CNN BRASIL HD" tvg-ID="CNN BRASIL HD" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL HD
+http://tv.factoryiptv.com/cassia123/cassia1234/65039
+#EXTINF:0 tvg-chno="419" tvg-name="CNN BRASIL" tvg-ID="CNN BRASIL" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL
+http://tv.factoryiptv.com/cassia123/cassia1234/65040
+#EXTINF:0 tvg-chno="420" tvg-name="CNN BRASIL H265" tvg-ID="CNN BRASIL H265" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | Noticias",CNN BRASIL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/65042
+#EXTINF:0 tvg-chno="421" tvg-name="CNN Espanhol" tvg-ID="CNN Espanhol" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Noticias",CNN Espanhol
+http://tv.factoryiptv.com/cassia123/cassia1234/81018
+#EXTINF:0 tvg-chno="422" tvg-name="CNN Internacional" tvg-ID="CNN Internacional" tvg-logo="https://i.imgur.com/MhT0ccV.png" group-title="Canais | Noticias",CNN Internacional
+http://tv.factoryiptv.com/cassia123/cassia1234/81017
+#EXTINF:0 tvg-chno="423" tvg-name="CNT Recife HD" tvg-ID="CNT Recife HD" tvg-logo="https://i.imgur.com/s79JDZJ.png" group-title="Canais | Noticias",CNT Recife HD
+http://tv.factoryiptv.com/cassia123/cassia1234/81602
+#EXTINF:0 tvg-chno="135" tvg-name="AXN H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",AXN H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62796
+#EXTINF:0 tvg-chno="138" tvg-name="BandNews H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BandNews H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62797
+#EXTINF:0 tvg-chno="140" tvg-name="BAND SPORTS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BAND SPORTS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62798
+#EXTINF:0 tvg-chno="143" tvg-name="BIS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BIS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62799
+#EXTINF:0 tvg-chno="146" tvg-name="BOOMERANG H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BOOMERANG H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62800
+#EXTINF:0 tvg-chno="149" tvg-name="CANAL SONY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",CANAL SONY H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62802
+#EXTINF:0 tvg-chno="152" tvg-name="TV GAZETA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TV GAZETA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62803
+#EXTINF:0 tvg-chno="154" tvg-name="CARTOON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",CARTOON H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62804
+#EXTINF:0 tvg-chno="157" tvg-name="TV APARECIDA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TV APARECIDA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62806
+#EXTINF:0 tvg-chno="160" tvg-name="TRUTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TRUTV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62807
+#EXTINF:0 tvg-chno="162" tvg-name="CINEMAX H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",CINEMAX H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62808
+#EXTINF:0 tvg-chno="164" tvg-name="TLC H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TLC H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62809
+#EXTINF:0 tvg-chno="166" tvg-name="REDE TV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",REDE TV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62811
+#EXTINF:0 tvg-chno="169" tvg-name="RECORD NEWS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",RECORD NEWS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62812
+#EXTINF:0 tvg-chno="172" tvg-name="COMEDY CENTRAL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",COMEDY CENTRAL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62813
+#EXTINF:0 tvg-chno="175" tvg-name="GLOOBINHO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOOBINHO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62814
+#EXTINF:0 tvg-chno="178" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO RIBEIRAO PRETO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62815
+#EXTINF:0 tvg-chno="181" tvg-name="GLOBO PORTO ALEGRE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO PORTO ALEGRE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62816
+#EXTINF:0 tvg-chno="184" tvg-name="ESPN 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",ESPN 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62817
+#EXTINF:0 tvg-chno="187" tvg-name="ESPN EXTRA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",ESPN EXTRA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62818
+#EXTINF:0 tvg-chno="190" tvg-name="GLOBO NORDESTE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO NORDESTE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62819
+#EXTINF:0 tvg-chno="195" tvg-name="GLOBO MINAS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO MINAS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62820
+#EXTINF:0 tvg-chno="198" tvg-name="GLOBO CAMPINAS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO CAMPINAS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62821
+#EXTINF:0 tvg-chno="202" tvg-name="FOOD NETWORK H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FOOD NETWORK H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62822
+#EXTINF:0 tvg-chno="205" tvg-name="DISNEY XD - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISNEY XD - H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62823
+#EXTINF:0 tvg-chno="208" tvg-name="Star Channel H265" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="Canais | H.265 [01] ",Star Channel H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62825
+#EXTINF:0 tvg-chno="211" tvg-name="WOOHOO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",WOOHOO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62827
+#EXTINF:0 tvg-chno="214" tvg-name="Star Life H265" tvg-logo="https://i.imgur.com/NoyRFaw.png" group-title="Canais | H.265 [01] ",Star Life H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62829
+#EXTINF:0 tvg-chno="217" tvg-name="Star Hits H265" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | H.265 [01] ",Star Hits H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62830
+#EXTINF:0 tvg-chno="220" tvg-name="TV NOVO TEMPO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TV NOVO TEMPO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62831
+#EXTINF:0 tvg-chno="222" tvg-name="Star Hits 2 H265" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | H.265 [01] ",Star Hits 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62832
+#EXTINF:0 tvg-chno="225" tvg-name="TRAVEL BOX BRAZIL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TRAVEL BOX BRAZIL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62833
+#EXTINF:0 tvg-chno="228" tvg-name="FUTURA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FUTURA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62834
+#EXTINF:0 tvg-chno="231" tvg-name="FX H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FX H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62836
+#EXTINF:0 tvg-chno="234" tvg-name="SBT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SBT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62838
+#EXTINF:0 tvg-chno="237" tvg-name="RECORDTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",RECORDTV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62839
+#EXTINF:0 tvg-chno="240" tvg-name="GLOBO NEWS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO NEWS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62840
+#EXTINF:0 tvg-chno="242" tvg-name="PFC 7 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PFC 7 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62841
+#EXTINF:0 tvg-chno="246" tvg-name="GLOOB H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOOB H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62843
+#EXTINF:0 tvg-chno="248" tvg-name="PFC 4 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PFC 4 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62844
+#EXTINF:0 tvg-chno="251" tvg-name="HBO 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62845
+#EXTINF:0 tvg-chno="253" tvg-name="NAT GEO KIDS - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",NAT GEO KIDS - H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62846
+#EXTINF:0 tvg-chno="254" tvg-name="HBO FAMILY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO FAMILY H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62847
+#EXTINF:0 tvg-chno="255" tvg-name="HBO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62848
+#EXTINF:0 tvg-chno="257" tvg-name="MULTISHOW - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MULTISHOW - H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62849
+#EXTINF:0 tvg-chno="260" tvg-name="MTV LIVE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MTV LIVE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62850
+#EXTINF:0 tvg-chno="263" tvg-name="INVESTIGATION DISC H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",INVESTIGATION DISC H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62851
+#EXTINF:0 tvg-chno="266" tvg-name="HBO PLUS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO PLUS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62852
+#EXTINF:0 tvg-chno="268" tvg-name="H2 - H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",H2 - H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62853
+#EXTINF:0 tvg-chno="271" tvg-name="GNT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GNT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62854
+#EXTINF:0 tvg-chno="272" tvg-name="GLOBO SP H265" tvg-ID="100% Vida" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO SP H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62855
+#EXTINF:0 tvg-chno="273" tvg-name="HBO SIGNATURE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HBO SIGNATURE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62856
+#EXTINF:0 tvg-chno="274" tvg-name="GLOBO Rio H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",GLOBO Rio H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62857
+#EXTINF:0 tvg-chno="275" tvg-name="HISTORY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HISTORY H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62858
+#EXTINF:0 tvg-chno="277" tvg-name="FOX SPORTS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FOX SPORTS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62859
+#EXTINF:0 tvg-chno="279" tvg-name="LIFETIME H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",LIFETIME H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62860
+#EXTINF:0 tvg-chno="281" tvg-name="MAIS GLOBOSAT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MAIS GLOBOSAT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62861
+#EXTINF:0 tvg-chno="282" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FOX SPORTS 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62862
+#EXTINF:0 tvg-chno="284" tvg-name="HBO Mundi H265" tvg-logo="https://i.imgur.com/RgOfJYg.png" group-title="Canais | H.265 [01] ",HBO Mundi H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62863
+#EXTINF:0 tvg-chno="285" tvg-name="FISH TV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FISH TV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62864
+#EXTINF:0 tvg-chno="287" tvg-name="HBO Xtreme H265" tvg-logo="https://i.imgur.com/HeJPYl6.png" group-title="Canais | H.265 [01] ",HBO Xtreme H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62865
+#EXTINF:0 tvg-chno="289" tvg-name="HBO POP H265" tvg-logo="https://i.imgur.com/1hIuQoH.png" group-title="Canais | H.265 [01] ",HBO POP H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62866
+#EXTINF:0 tvg-chno="291" tvg-name="FASHION TV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",FASHION TV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62867
+#EXTINF:0 tvg-chno="292" tvg-name="MegaPix H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MegaPix H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62868
+#EXTINF:0 tvg-chno="293" tvg-name="ESPN H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",ESPN H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62869
+#EXTINF:0 tvg-chno="295" tvg-name="ESPN BRASIL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",ESPN BRASIL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62870
+#EXTINF:0 tvg-chno="297" tvg-name="E! H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",E! H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62871
+#EXTINF:0 tvg-chno="299" tvg-name="DISNEY JR H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISNEY JR H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62872
+#EXTINF:0 tvg-chno="301" tvg-name="DISNEY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISNEY H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62873
+#EXTINF:0 tvg-chno="302" tvg-name="MTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MTV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62874
+#EXTINF:0 tvg-chno="303" tvg-name="DISC WORLD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC WORLD H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62875
+#EXTINF:0 tvg-chno="305" tvg-name="MUSIC BOX BRAZIL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MUSIC BOX BRAZIL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62876
+#EXTINF:0 tvg-chno="307" tvg-name="DISC TURBO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC TURBO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62877
+#EXTINF:0 tvg-chno="309" tvg-name="NATGEO H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",NATGEO H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62878
+#EXTINF:0 tvg-chno="311" tvg-name="DISC THEATER H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC THEATER H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62879
+#EXTINF:0 tvg-chno="313" tvg-name="DISC SCIENCE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC SCIENCE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62880
+#EXTINF:0 tvg-chno="315" tvg-name="DISC KIDS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC KIDS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62881
+#EXTINF:0 tvg-chno="317" tvg-name="NATGEO WILD H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",NATGEO WILD H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62882
+#EXTINF:0 tvg-chno="320" tvg-name="DISC HOME HEALTH H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",DISC HOME HEALTH H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62883
+#EXTINF:0 tvg-chno="322" tvg-name="NICK JR H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",NICK JR H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62884
+#EXTINF:0 tvg-chno="324" tvg-name="HGTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",HGTV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62885
+#EXTINF:0 tvg-chno="326" tvg-name="NICKELODEON H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",NICKELODEON H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62886
+#EXTINF:0 tvg-chno="328" tvg-name="BAND H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",BAND H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62887
+#EXTINF:0 tvg-chno="330" tvg-name="AMC H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",AMC H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62888
+#EXTINF:0 tvg-chno="331" tvg-name="A&E H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",A&E H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62889
+#EXTINF:0 tvg-chno="333" tvg-name="OFF H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",OFF H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62890
+#EXTINF:0 tvg-chno="335" tvg-name="WARNER H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",WARNER H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62891
+#EXTINF:0 tvg-chno="337" tvg-name="PARAMOUNT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PARAMOUNT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62892
+#EXTINF:0 tvg-chno="339" tvg-name="VIVA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",VIVA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62893
+#EXTINF:0 tvg-chno="341" tvg-name="VH1 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",VH1 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62894
+#EXTINF:0 tvg-chno="343" tvg-name="PFC 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PFC 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62895
+#EXTINF:0 tvg-chno="345" tvg-name="UNIVERSAL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",UNIVERSAL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62896
+#EXTINF:0 tvg-chno="347" tvg-name="TV RA TIM BUM H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TV RA TIM BUM H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62898
+#EXTINF:0 tvg-chno="348" tvg-name="PFC CLUBES H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PFC CLUBES H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62900
+#EXTINF:0 tvg-chno="349" tvg-name="PRIME BOX BRAZIL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",PRIME BOX BRAZIL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62903
+#EXTINF:0 tvg-chno="350" tvg-name="REDE VIDA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",REDE VIDA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62904
+#EXTINF:0 tvg-chno="351" tvg-name="TNT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TNT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62905
+#EXTINF:0 tvg-chno="353" tvg-name="TC TOUCH H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TC TOUCH H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62906
+#EXTINF:0 tvg-chno="355" tvg-name="TC PREMIUM H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TC PREMIUM H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62907
+#EXTINF:0 tvg-chno="357" tvg-name="TC PIPOCA H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TC PIPOCA H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62908
+#EXTINF:0 tvg-chno="359" tvg-name="TC FUN H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TC FUN H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62909
+#EXTINF:0 tvg-chno="361" tvg-name="SPACE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SPACE H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62910
+#EXTINF:0 tvg-chno="363" tvg-name="TC CULT H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TC CULT H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62911
+#EXTINF:0 tvg-chno="365" tvg-name="TBS H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",TBS H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62913
+#EXTINF:0 tvg-chno="367" tvg-name="SPORTV 2 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SPORTV 2 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62914
+#EXTINF:0 tvg-chno="369" tvg-name="SYFY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SYFY H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62915
+#EXTINF:0 tvg-chno="371" tvg-name="SPORTV 3 H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SPORTV 3 H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62916
+#EXTINF:0 tvg-chno="373" tvg-name="STUDIO UNIVERSAL H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",STUDIO UNIVERSAL H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62917
+#EXTINF:0 tvg-chno="375" tvg-name="SPORTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",SPORTV H265
+http://tv.factoryiptv.com/cassia123/cassia1234/62918
+#EXTINF:0 tvg-chno="132" tvg-name="HGTV | Dual Áudio" tvg-ID="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | Dual Audio",HGTV | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63219
+#EXTINF:0 tvg-chno="134" tvg-name="SPACE | Dual Áudio" tvg-ID="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Dual Audio",SPACE | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63220
+#EXTINF:0 tvg-chno="137" tvg-name="H2 | Dual Áudio" tvg-ID="H2" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Canais | Dual Audio",H2 | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63221
+#EXTINF:0 tvg-chno="139" tvg-name="Star Hits | Dual Áudio" tvg-ID="Fox Premium 1" tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Dual Audio",Star Hits | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63222
+#EXTINF:0 tvg-chno="142" tvg-name="Star Life | Dual Áudio" tvg-ID="FOX LIFE" tvg-logo="https://i.imgur.com/NoyRFaw.png" group-title="Canais | Dual Audio",Star Life | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63223
+#EXTINF:0 tvg-chno="145" tvg-name="Cartoon Network | Dual Áudio" tvg-ID="Cartoon Network" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Dual Audio",Cartoon Network | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63224
+#EXTINF:0 tvg-chno="148" tvg-name="AXN | Dual Áudio" tvg-ID="AXN " tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Canais | Dual Audio",AXN | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63225
+#EXTINF:0 tvg-chno="151" tvg-name="NATGEO KIDS | Dual Áudio" tvg-ID="NATGEO KIDS" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Dual Audio",NATGEO KIDS | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63226
+#EXTINF:0 tvg-chno="153" tvg-name="NatGeo | Dual Áudio" tvg-ID="NatGeo" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | Dual Audio",NatGeo | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63227
+#EXTINF:0 tvg-chno="156" tvg-name="STUDIO UNIVERSAL | Dual Áudio" tvg-ID="STUDIO UNIVERSAL " tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Canais | Dual Audio",STUDIO UNIVERSAL | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63228
+#EXTINF:0 tvg-chno="159" tvg-name="NATGEO WILD | Dual Áudio" tvg-ID="NATGEO WILD" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | Dual Audio",NATGEO WILD | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63229
+#EXTINF:0 tvg-chno="161" tvg-name="DISCOVERY WORLD | Dual Áudio" tvg-ID="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Dual Audio",DISCOVERY WORLD | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63230
+#EXTINF:0 tvg-chno="163" tvg-name="BAND | Dual Áudio" tvg-ID="BAND | Dual Áudio " tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Dual Audio",BAND | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63232
+#EXTINF:0 tvg-chno="165" tvg-name="BOOMERANG | Dual Áudio" tvg-ID="BOOMBERANG | Dual Áudio " tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Dual Audio",BOOMERANG | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63233
+#EXTINF:0 tvg-chno="168" tvg-name="DISCOVERY CHANNEL | Dual Áudio" tvg-ID="DISCOVERY CHANNEL | Dual Áudio " tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Dual Audio",DISCOVERY CHANNEL | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63234
+#EXTINF:0 tvg-chno="171" tvg-name="Discovery Turbo | Dual Áudio" tvg-ID="Discovery Turbo | Dual Áudio " tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Dual Audio",Discovery Turbo | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63235
+#EXTINF:0 tvg-chno="174" tvg-name="DISNEY CHANNEL | Dual Áudio" tvg-ID="DISNEY CHANNEL | Dual Áudio " tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Dual Audio",DISNEY CHANNEL | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63236
+#EXTINF:0 tvg-chno="177" tvg-name="DISNEY JR | Dual Áudio" tvg-ID="DISNEY JR | Dual Áudio " tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Dual Audio",DISNEY JR | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63237
+#EXTINF:0 tvg-chno="180" tvg-name="DISNEY XD | Dual Áudio" tvg-ID="DISNEY XD | Dual Áudio " tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Dual Audio",DISNEY XD | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63238
+#EXTINF:0 tvg-chno="183" tvg-name="ESPN 2 | Dual Áudio" tvg-ID="ESPN 2 | Dual Áudio" tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Dual Audio",ESPN 2 | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63239
+#EXTINF:0 tvg-chno="186" tvg-name="FILM ARTS | Dual Áudio" tvg-ID="FILM ARTS | Dual Áudio " tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="Canais | Dual Audio",FILM ARTS | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63240
+#EXTINF:0 tvg-chno="189" tvg-name="FOOD NETWORK | Dual Áudio" tvg-ID="FOOD NETWORK | Dual Áudio" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg" group-title="Canais | Dual Audio",FOOD NETWORK | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63241
+#EXTINF:0 tvg-chno="194" tvg-name="Star Hits 2 | Dual Áudio" tvg-ID="FOX PREMIUM 2 | Dual Áudio " tvg-logo="https://i.imgur.com/CseZsVb.png" group-title="Canais | Dual Audio",Star Hits 2 | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63243
+#EXTINF:0 tvg-chno="197" tvg-name="HBO PLUS | Dual Áudio" tvg-ID="HBO PLUS | Dual Áudio " tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Canais | Dual Audio",HBO PLUS | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63244
+#EXTINF:0 tvg-chno="201" tvg-name="LIFE TIME | Dual Áudio" tvg-ID="LIFE TIME | Dual Áudio " tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="Canais | Dual Audio",LIFE TIME | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63245
+#EXTINF:0 tvg-chno="204" tvg-name="MTV | Dual Áudio" tvg-ID="MTV | Dual Áudio " tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Canais | Dual Audio",MTV | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63247
+#EXTINF:0 tvg-chno="207" tvg-name="MULTISHOW | Dual Áudio" tvg-ID="MULTISHOW | Dual Áudio " tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Dual Audio",MULTISHOW | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63248
+#EXTINF:0 tvg-chno="210" tvg-name="PARAMOUNT | Dual Áudio" tvg-ID="PARAMOUNT | Dual Áudio " tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | Dual Audio",PARAMOUNT | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63249
+#EXTINF:0 tvg-chno="213" tvg-name="CANAL SONY | Dual Áudio" tvg-ID="CANAL SONY | Dual Áudio " tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | Dual Audio",CANAL SONY | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63250
+#EXTINF:0 tvg-chno="216" tvg-name="TBS | Dual Áudio" tvg-ID="TBS | Dual Áudio " tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Canais | Dual Audio",TBS | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63251
+#EXTINF:0 tvg-chno="219" tvg-name="Telecine Touch | Dual Áudio" tvg-ID="Telecine Touch | Dual Áudio " tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Canais | Dual Audio",Telecine Touch | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63252
+#EXTINF:0 tvg-chno="221" tvg-name="TNT SERIES | Dual Áudio" tvg-ID="TNT SERIES | Dual Áudio " tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Dual Audio",TNT SERIES | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63253
+#EXTINF:0 tvg-chno="224" tvg-name="ARTE 1 | Dual Áudio" tvg-ID="ARTE 1 | Dual Áudio " tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Canais | Dual Audio",ARTE 1 | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63255
+#EXTINF:0 tvg-chno="227" tvg-name="ANIMAL PLANET | Dual Áudio" tvg-ID="ANIMAL PLANET | Dual Áudio " tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Dual Audio",ANIMAL PLANET | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63256
+#EXTINF:0 tvg-chno="230" tvg-name="A&E | Dual Áudio" tvg-ID="A&E | Dual Áudio " tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Dual Audio",A&E | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63257
+#EXTINF:0 tvg-chno="233" tvg-name="COMEDY | Dual Áudio" tvg-ID="COMEDY | Dual Áudio " tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | Dual Audio",COMEDY | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63258
+#EXTINF:0 tvg-chno="236" tvg-name="TLC | Dual Áudio" tvg-ID="TLC | Dual Áudio " tvg-logo="http://images.mi.tv/channels/br_tlc_m.png" group-title="Canais | Dual Audio",TLC | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63259
+#EXTINF:0 tvg-chno="239" tvg-name="TNT | Dual Áudio" tvg-ID="TNT | Dual Áudio " tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Dual Audio",TNT | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63260
+#EXTINF:0 tvg-chno="241" tvg-name="WOHOO | Dual Áudio" tvg-ID="WOHOO | Dual Áudio " tvg-logo="https://4.bp.blogspot.com/-2CwDjeJXwlc/Whg9i0MBY7I/AAAAAAAABXI/Qt16RTfb3potQaf4rl8fDNuLzqdtexpqgCLcBGAs/s1600/woohoo.png" group-title="Canais | Dual Audio",WOHOO | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63261
+#EXTINF:0 tvg-chno="245" tvg-name="BIS | Dual Áudio" tvg-ID="BIS | Dual Áudio " tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Dual Audio",BIS | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63262
+#EXTINF:0 tvg-chno="247" tvg-name="GLOBO HD 2 | Dual Áudio" tvg-ID="GLOBO HD 2 |Dual Áudio " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais | Dual Audio",GLOBO HD 2 | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63263
+#EXTINF:0 tvg-chno="250" tvg-name="NICKLODEON | Dual Áudio" tvg-ID="NICKLODEON | Dual Áudio " tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Dual Audio",NICKLODEON | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63264
+#EXTINF:0 tvg-chno="252" tvg-name="TELECINE CULT | Dual Áudio" tvg-ID="TELECINE CULT | Dual Áudio " tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="Canais | Dual Audio",TELECINE CULT | Dual Áudio
+http://tv.factoryiptv.com/cassia123/cassia1234/63265
+#EXTINF:0 tvg-chno="256" tvg-name="MegaPix | Dual Audio" tvg-ID="MegaPix | Dual Audio" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Dual Audio",MegaPix | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63309
+#EXTINF:0 tvg-chno="259" tvg-name="Telecine Pipoca | Dual Audio" tvg-ID="Telecine Pipoca | Dual Audio" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Dual Audio",Telecine Pipoca | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63311
+#EXTINF:0 tvg-chno="262" tvg-name="Discovery Theater | Dual Audio" tvg-ID="Discovery Theater | Dual Audio" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="Canais | Dual Audio",Discovery Theater | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63312
+#EXTINF:0 tvg-chno="265" tvg-name="Discovery Science | Dual Audio" tvg-ID="Discovery Science | Dual Audio" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg" group-title="Canais | Dual Audio",Discovery Science | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63313
+#EXTINF:0 tvg-chno="267" tvg-name="Discovery World | Dual Audio" tvg-ID="Wiscovery World | Dual Audio" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Dual Audio",Discovery World | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63314
+#EXTINF:0 tvg-chno="270" tvg-name="FX | Dual Audio" tvg-ID="FX | Dual Audio" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Canais | Dual Audio",FX | Dual Audio
+http://tv.factoryiptv.com/cassia123/cassia1234/63316
