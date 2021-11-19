@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Globo Mato Grosso FHD" tvg-ID="Globo Mato Grosso FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Mato Grosso FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/63728
+#EXTINF:0 tvg-name="Globo Goiânia FHD" tvg-ID="Globo Goiânia FHD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Goiânia FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/72816
+#EXTINF:0 tvg-name="Globo Salvador FHD" tvg-ID="Globo Salvador FHD" tvg-logo="https://i.imgur.com/ozxkJhG.png" group-title="AAA",Globo Salvador FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/72890
+#EXTINF:0 tvg-name="SBT Serra Dourada HD" tvg-ID="SBT Serra Dourada HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="AAA",SBT Serra Dourada HD
+http://tv.factoryiptv.com/cassia123/cassia1234/65268
+#EXTINF:0 tvg-name="RecordTV Bahia FHD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Bahia FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/42905
+#EXTINF:0 tvg-name="RecordTV Goias HD" tvg-ID="RecordTV Goias HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="AAA",RecordTV Goias HD
+http://tv.factoryiptv.com/cassia123/cassia1234/63718
+#EXTINF:0 tvg-name="Cultura FHD" tvg-ID="Cultura FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="AAA",Cultura FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/42903
+#EXTINF:0 tvg-name="RedeTV! FHD" tvg-ID="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="AAA",RedeTV! FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/41518
+#EXTINF:0 tvg-name="BandSports FHD" tvg-ID="BandSports FHD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="AAA",BandSports FHD
+http://tv.factoryiptv.com/cassia123/cassia1234/42900
+
